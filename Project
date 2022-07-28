@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script>
+            alert("2022 Division Champs!");
+            
+        </script>
+        <title>Independence U10 Fastpitch</title>
+
+        <style>
+
+            .practice {
+                border: solid blue;
+                margin: 1%;
+                padding: 2%;
+                width: 25%;
+                height: 60px;
+            }
+            
+                #bottom{
+                background: #D3D3D3;
+                position: fixed;
+                bottom: +100px;
+                left: +450px;
+            }
+            
+            
+            body {background-color: rgb(252, 236, 8); }
+            
+            h1 {color: rgb(0, 23, 230); }
+            
+            
+            img {
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+
+            }
+            
+        </style>
+       
+   
+             </head>
+           <body>
+               <h1><strong><center>Independence U10 Fast Pitch</h1></strong></center>
+               <center><a href="http://www.emeraldfastpitch.com/default.asp">Emerald Fast Pitch Home Page</center></a>
+               <br>
+               <br>
+               
+                                       <table>
+                   <table border="2">
+                       <table align=left>
+                       <thread>
+               <tr>
+                   <th>Coach: Laura Visnick</th>
+                   <th><a href="mailto:LVisnick@gmail.com">LVisnick@gmail.com</th></a>
+                           </table>
+                       
+                       
+                        <table>
+                   <table border="2">
+                       <table align=right>
+                       <thread>
+               <tr>
+                   <th>Asst. Coach: Carrie Mannaerino</th>
+                   <th><a href="mailto:cmannaerino@gmail.com">cmannaerion@gmail.com</th></a>
+                           </table>
+               <br>
+               <br>
+               
+               <img src="https://drive.google.com/thumbnail?id=10TwiDU8HiTvNbKvi9H7UZl2-sZ1J5SUK" alt="Softball" style="width:350px;">
+               
+
+               <br>
+               <br>
+               
+               <table>
+                   <table style="margin-top:50px; margin-left:10px">
+                    <table border="1">
+            <thread>
+
+            <tr>
+            <th>Player name</th>
+                
+            <th>Age</th>
+                
+            <th>Number</th>
+                
+            <th>Position</th>
+                
+            </tr>
+            </thread>
+            <tbody>
+                                   <tr>
+            <td>Maddie Blackman</td>
+                            <td><center>10</td></center>
+                   <td><center>23</td></center>
+            <td>Pitcher</td>
+                </tr>
+    <tr>
+                
+            <tr>
+            <td>Savannah Satow</td>
+                <td><center>9</td></center>
+                <td><center>13</td></center>
+            <td>Catcher</td>
+                </tr>
+    <tr>
+            <td>Emma Watson</td>
+                            <td><center>10</td></center>
+                   <td><center>32</td></center>
+            <td>First Base</td>
+                </tr>
+<tr>
+            <td>Bailey Porkney</td>
+                            <td><center>9</td></center>
+                   <td><center>11</td></center>
+            <td>Second Base</td>
+                </tr>
+<tr>
+            <td>JuJu Visnick</td>
+                            <td><center>9</td></center>
+                   <td><center>8</td></center>
+            <td>Shortstop</td>
+                </tr>
+                        <tr>
+            <td>Millie Fatalonie</td>
+                            <td><center>9</td></center>
+                   <td><center>14</td></center>
+            <td>Third Base</td>
+                </tr>
+<tr>
+            <td>Cara Winemer</td>
+                            <td><center>10</td></center>
+                   <td><center>22</td></center>
+            <td>Left Field</td>
+                </tr>
+                
+<tr>
+            <td>Gulianna Green</td>
+                            <td><center>9</td></center>
+                   <td><center>17</td></center>
+            <td>Center Field</td>
+                </tr>
+<tr>
+            <td>Alley Lee</td>
+                            <td><center>9</td></center>
+                   <td><center>20</td></center>
+            <td>Right Center Field</td>
+                </tr>
+<tr>
+            <td>Aria Brown</td>
+                            <td><center>9</td></center>
+                   <td><center>5</td></center>
+            <td>Right Field</td>
+                </tr>
+
+<table>
+                   <table style="margin-top:-250px; margin-left:10px">
+                         <table border="1" align="right">
+            <thread>
+            <tr>
+            <th>Date</th>
+                
+            <th>Time</th>
+                
+            <th>Opponent</th>
+                
+            <th>Field</th>
+                
+                <th>Score Them/Us</th>
+                
+            </tr>
+            </thread>
+            <tbody>
+            <tr>
+            <td>05/12</td>
+                <td>6:30 pm</td>
+                <td>Parma Cheetahs</td>
+                <td><a href="https://goo.gl/maps/ovbwLTCowwttwan37">James Day Park</td>
+                <td><center>12 to 10</td></center>
+                </tr>
+                            <tr>
+            <td>05/16</td>
+                <td>6:00 pm</td>
+                <td>Olmsted Captains(DB)</td>
+                <td><a href="https://goo.gl/maps/WTExZgMmqvmoWRag6">OF High School Field #4</td>
+                <td><center>8 to 11</td></center>
+                </tr>
+                                            <tr>
+            <td>05/19</td>
+                <td>6:30 pm</td>
+                <td>Olmsted Captains(SS)</td>
+                <td><a href="https://goo.gl/maps/WTExZgMmqvmoWRag6">OF High School Field #4</td>
+                <td><center>10 to 18</td></center>
+                </tr>
+       <tr>
+            <td>05/21</td>
+                <td>12:00 pm</td>
+                <td>Avon Grey</td>
+                <td>Independence #3</td>
+                <td><center>9 to 20</td></center>
+         </tr>
+       <tr>
+            <td>05/25</td>
+                <td>6:00 pm</td>
+                <td>Avon Black</td>
+                <td><a href="https://goo.gl/maps/kppaWonN5w5Wjg5L7">Avon Veterans Park #7</td>
+                <td><center>9 to 16</td></center>
+         </tr>
+       <tr>
+            <td>06/01</td>
+                <td>6:00 pm</td>
+                <td>Avon Grey</td>
+                <td><a href="https://goo.gl/maps/kppaWonN5w5Wjg5L7">Avon Veterans Park #7</td>
+                <td><center>19 to 10</td></center>
+         </tr>
+       <tr>
+            <td>06/07</td>
+                <td>6:30 pm</td>
+                <td>ClearviewCrushersGold</td>
+                <td>Independence #3</td>
+                <td><center>Forfeit them</td></center>
+         </tr>
+       <tr>
+            <td>06/09</td>
+                <td>6:00 pm</td>
+                <td>Olmsted Captains (DB)</td>
+                <td>Independence Zuber</td>
+                <td><center>12 to 13</td></center>
+         </tr>
+       <tr>
+            <td>06/11</td>
+                <td>10:00 am</td>
+                <td>Lakewood Rangers</td>
+                <td>Independence #3</td>
+                <td><center>14 to 15</td></center>
+         </tr>
+       <tr>
+            <td>06/11</td>
+                <td>12:00 pm</td>
+                <td>ClearviewCrushersGold</td>
+                <td>Independence #3</td>
+                <td><center>0 to 20</td></center>
+         </tr>
+       <tr>
+            <td>06/15</td>
+                <td>6:00 pm</td>
+                <td>Olmsted Captains (SS)</td>
+                <td>Independence Zuber</td>
+                <td><center>4 to 18</td></center>
+         </tr>
+       <tr>
+            <td>06/21</td>
+                <td>8:00 pm</td>
+                <td>Avon Black</td>
+                <td>Independence Zuber</td>
+                <td><center>7 to 5</td></center>
+         </tr>
+       <tr>
+            <td>06/24</td>
+                <td>8:00 pm</td>
+                <td>Parma Cheetahs</td>
+                <td>Independence Zuber</td>
+                <td><center>5 to 10</td></center>
+         </tr>
+       <tr>
+            <td>06/28</td>
+                <td>6:30 pm</td>
+                <td>Lakewood Rangers</td>
+                <td><a href="https://goo.gl/maps/MUKYDJWcUU6DiTuMA">Lakewood High School</td>
+                <td><center>6 to 18</td></center>
+         </tr>
+
+                         <div class="practice" id="bottom">
+<p><center>Pratice's will be held each Tuesday starting 04/05 until our first game at 6:00 pm on field #1</p></center>
+<p><center><strong>Any Additional information to follow</p></center></strong>
+
+
+   </body>
+</html>
